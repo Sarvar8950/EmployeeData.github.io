@@ -1,0 +1,36 @@
+{
+  "profile": [
+    {
+      "name": "sarvar",
+      "gender": "male",
+      "department": "it",
+      "role": "student",
+      "salary": "10000",
+      "id": 1
+    },
+    {
+      "name": "sagar",
+      "gender": "male",
+      "department": "marketing",
+      "role": "hr",
+      "salary": "10000",
+      "id": 2
+    },
+    {
+      "name": "yogesh",
+      "gender": "male",
+      "department": "hr",
+      "role": "hr",
+      "salary": "100000",
+      "id": 3
+    },
+    {
+      "name": "aman",
+      "gender": "male",
+      "department": "finance",
+      "role": "head",
+      "salary": "10000000",
+      "id": 4
+    }
+  ]
+}
